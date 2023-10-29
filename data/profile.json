@@ -1,78 +1,58 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
+  "name": "Douglas Pfeffer",
+  "photo": "https://avatars.githubusercontent.com/u/87678082?v=4",
+  "job": "Junior Developer",
   "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "phone": "(71) 99101-1650",
+  "email": "dougfeffer@googlemail.com",
+  "aboutMe": "Me formei em Engenharia Mecatrônica pela Universidade de Salvador (UNIFACS) em 2021 e atualmente estou em um empolgante processo de transição para a área de programação. Estou ativamente em busca de minha primeira oportunidade profissional nessa área e determinado a adquirir novos conhecimentos e contribuir para o crescimento da empresa em minha nova carreira. Minha jornada até agora me proporcionou habilidades valiosas, como a capacidade de aprender rapidamente, disciplina e uma sólida base lógica, que considero essenciais para o sucesso na programação. Tenho um forte interesse e paixão pela tecnologia e estou ansioso para aplicar essas qualidades e comprometimento em minha nova carreira de programação.",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "Git",
+        "logo": "./data/imgs/git.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "GitHub",
+        "logo": "./data/imgs/github.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "JavaScript",
+        "logo": "./data/imgs/js.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "HTML",
+        "logo": "./data/imgs/html.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "CSS",
+        "logo": "./data/imgs/css.png"
       }
     ],
     "softSkills": [
+      "Facilidade com tarefas práticas",
+      "Organização",
       "Empatia",
-      "Liderança",
+      "Compromisso com resultados",
       "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Flexibilidade"
     ]
   },
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Alemão (básico)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Trilha JS Developer - Pokedex",
+      "url": "https://github.com/douglaspfeffer/js-developer-pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Repositório deste Portfólio",
+      "url": "https://github.com/douglaspfeffer/js-developer-portfolio",
       "github": true
-    }
-  ],
-  "professionalExperience": [
-    {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
     }
   ]
 }
